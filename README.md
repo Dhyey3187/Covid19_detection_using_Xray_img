@@ -47,5 +47,5 @@ Download the dataset from this Kaggle compitition: [https://www.kaggle.com/datas
 
 
 ### 🐚✨ **Author**:-
-### [Linkedin](https://www.linkedin.com/in/dhyey-shrimankar-298855247/)
-### [GitHub](https://github.com/Dhyey3187)
+### [Linkedin](https://www.linkedin.com/in/dhyey-shrimankar-298855247/) - Dhyey Shrimankar
+### [GitHub](https://github.com/Dhyey3187) - Dhyey3187
