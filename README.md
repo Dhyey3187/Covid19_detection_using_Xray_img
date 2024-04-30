@@ -19,7 +19,7 @@ Download the dataset from this Kaggle compitition: [https://www.kaggle.com/datas
 #### Dataset Summary
 
 <div align='center' >
-    <img src='./data_summary.png' height='150rem' width='750'>
+    <img src='./summary.png' height='350rem' width='400'>
 </div>
 
 
@@ -31,15 +31,15 @@ Download the dataset from this Kaggle compitition: [https://www.kaggle.com/datas
 4. Paste it in the Endpoint IP field.
 
 <div align='center' >
-    <img src='./localtunnel.png' height='150rem' width='750'>
+    <img src='./localtunnel.png' height='250rem' width='750'>
 </div>
 
 ## OUTPUT
 
 <div align='center' >
-    <img src='./outpu1.png' height='150rem' width='750'>
+    <img src='./output1.png' height='300rem' width='480'>
 </div>
 
 <div align='center' >
-    <img src='./output2.png' height='150rem' width='750'>
+    <img src='./output2.png' height='650rem' width='480'>
 </div>
