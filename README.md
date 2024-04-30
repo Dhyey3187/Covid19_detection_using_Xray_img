@@ -1,10 +1,10 @@
 # Covid19_detection_using_Xray_img
-## COVID-19-DETECTION-Using-CNN
 ### Detecting COVID-19 From Chest X-Ray Images using CNN
 This project aims to develop and implement a convolutional neural network (CNN) model for the detection of COVID-19 from chest X-ray images, creating a precise and efficient model that can significantly contribute to the early and accurate diagnosis of COVID-19, thereby facilitating effective patient management and curbing the transmission of the disease.
 <p>By training a CNN model on a large dataset of chest X-ray images, consisting of COVID-19-positive and negative cases, we seek to establish a reliable and efficient method for COVID-19 detection. The trained model will be able to classify new chest X-ray images as either COVID-19-positive or negative, thereby aiding healthcare professionals in making timely and informed decisions.</p>
 
-### Dataset
+
+## Dataset
 Download the dataset from this Kaggle compitition: [https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia/data](https://www.kaggle.com/c/stat946winter2021/overview)
 
 #### Dataset Description
@@ -23,6 +23,7 @@ Download the dataset from this Kaggle compitition: [https://www.kaggle.com/datas
 </div>
 
 
+### [My Model](https://drive.google.com/file/d/1PBzSR21WlkbKvq6snH5WLGcK8g4Mechq/view?usp=sharing) :- Google Drive
 
 ### To run the StreamLit (Localtunnel) on Colab or online notebooks
 1. Install and run the localtunnel code. (Last part of the Notebook)
@@ -43,3 +44,8 @@ Download the dataset from this Kaggle compitition: [https://www.kaggle.com/datas
 <div align='center' >
     <img src='./output2.png' height='650rem' width='480'>
 </div>
+
+
+### 🐚✨ **Author**:-
+### [Linkedin](https://www.linkedin.com/in/dhyey-shrimankar-298855247/)
+### [GitHub](https://github.com/Dhyey3187)
